@@ -7,6 +7,11 @@ Make sure to have Opera GX downloaded if on pc, You can get it from this downloa
 
 please run opera_login_session first so you login to pinterest inside of the browser otherwise it will be stuck on the login screen not doing anything
 
+run this in your directory for the script
+
+pip install -r requirements.txt
+python -m playwright install
+
 Discord: atltx
 Server: Not Setup Yet
 
